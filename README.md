@@ -2,7 +2,7 @@
 
 ***Thank you for your participation in the Survey on Rare Cancer policies.***
 
-# What else can you do to help with the study?
+# What else can you do to help with the survey?
 
 You can send the following link <https://s4c.raredis.org/271638?lang=en> to your colleagues working in the field of oncology. Initial registration with an e-mail address and name is required. However, we respect the anonymity policy, as the platform does not collect any additional personal information and the available personal data is treated according to the GDPR.
 
