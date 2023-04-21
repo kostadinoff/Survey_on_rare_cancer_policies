@@ -1,6 +1,6 @@
 # Survey on Rare Cancer policies - Data repository
 
-***Thank you for your participation in the Survey on Rare Cancer policies. In this repository you can find:***
+***Thank you for your participation in the Survey on Rare Cancer policies.***
 
 # What else can you do to help with the study?
 
