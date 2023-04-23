@@ -1,6 +1,6 @@
 # Survey on Rare Cancer policies - Data repository
 
-***Thank you for your participation in the Survey on Rare Cancer policies.***
+***Thank you for your participation in the Survey on Rare Cancer policies!***
 
 # What else can you do to help with the survey?
 
@@ -23,11 +23,4 @@ All survey versions can be found in the folder `survey_versions`. The survey is 
 
 ## Survey Data
 
-In the [`anonymized_data`](anonymized_data/README.md) folder, you can find the anonymized data from the survey. The data is available in the following formats:
-
--   `csv` - comma separated values
--   `xlsx` - excel file
--   `sav` - SPSS file
--   `dta` - Stata file
-
-The data is updated regularly. The data is anonymized and does not contain any personal information. The data is open to use for academic purposes. Please citation provided above.
+In the [`anonymized_data`](survey_versions/README.md) you can find information on how tha data have been anonymized.
