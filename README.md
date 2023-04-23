@@ -23,4 +23,4 @@ All survey versions can be found in the folder `survey_versions`. The survey is 
 
 ## Survey Data
 
-In the [`anonymized_data`](survey_versions/README.md) you can find information on how tha data have been anonymized.
+In the [`anonymized_data`](survey_versions/README.md) you can find information about how tha data have been anonymized.
