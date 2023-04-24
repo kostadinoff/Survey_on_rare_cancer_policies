@@ -18,7 +18,7 @@ All survey versions can be found in the folder `survey_versions`. The survey is 
     >             author = {Kostadinov, Kostadin and Iskrov, Georgi and Musurlieva, Nina},
     >             title = {Survey on rare cancer policies},
     >             url = {https://github.com/kostadinoff/Survey_on_rare_cancer_policies},
-    >             version = {3.0}, 
+    >             version = {2.0}, 
     >             year = {2023}}
 
 ## Survey Data
