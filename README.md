@@ -8,7 +8,7 @@ You can send the following link <https://s4c.raredis.org/271638?lang=en> to your
 
 ## Reference list of systematically collected articles via PubMed and ScienceDirect databases
 
-The reference list is available in the file [`reference_list.csv`](references/reference_list.csv)and [`reference_list.bib`](references/reference_list.bib). The files are updated regularly with relevant articles used to construct the survey. Open access pdf files also can be found in the folder `references/articles`.
+The reference list is available in the file [`references.bib`](references/references.bib) which is updated regularly with relevant articles used to construct the survey. Open access pdf files also can be found in the folder `references/articles`.
 
 ## Survey versions
 
